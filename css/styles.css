@@ -2131,6 +2131,11 @@ footer a {
   transform: scale(1.1);
 }
 
+  .faqs_container {
+  width: 20rem;
+  margin-left: -2.2rem;
+}
+
 #game-container {
   width: 100%;
   height: 16rem;
